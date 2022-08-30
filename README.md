@@ -10,7 +10,7 @@
 <a href="mailto:daniasrayan.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+
 
 * Estou cursando Análise e Desenvolvimento de Sistemas na universidade Anhembi Morumbi e Processos de Produção na Fatec - São Paulo.
 * Sou um desenvolvedor Backend Junior buscando por experiência.
