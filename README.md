@@ -5,11 +5,9 @@
          width="45" /></h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://leetcode.com/imkashyap/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://www.hackerrank.com/imkashyap"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 <a href="https://twitter.com/imkashyap_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/imkashyap__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:rahulkashyap4041@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.instagram.com/pain_daniasrayan/?hl=pt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="mailto:daniasrayan.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
