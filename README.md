@@ -38,7 +38,7 @@
  
 
 
-- Databases:  &nbsp;  
+- Databases: &nbsp;  
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 
 - IDEs: &nbsp;
