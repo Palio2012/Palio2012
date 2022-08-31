@@ -17,13 +17,7 @@
 * As minhas principais linguagens de programação são Java e C#, das quais estou aperfeiçoando cada vez mais.
 
 ***
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
+
 
 
 
