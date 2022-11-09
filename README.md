@@ -7,13 +7,13 @@
 
 - 🔭 Estou trabalhando em um guia do Spring framework [Spring-Guide](https://github.com/Palio2012/spring-boot-guide-2)
 
-- 🌱 Estou aprendendo no momento **Spring framework, React, NoSQL, Javascript**
+- 🌱 Estou aprendendo no momento: **Spring framework, React, NoSQL, Javascript**
 
 - 👨‍💻 Meus projetos estão disponíveis neste link: [https://github.com/Palio2012](https://github.com/Palio2012)
 
 - 📫 Contato: **https://www.linkedin.com/in/danielbaldassi/**
 
-- ⚡ Fato curioso **Pratico música nas horas vagas**
+- ⚡ Fato curioso: **Pratico música nas horas vagas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
