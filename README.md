@@ -5,19 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palio2012" alt="palio2012" /></a> </p>
 
-- 🔭 Estou trabalhando em um guia do Spring framework [Spring-Guide](https://github.com/Palio2012/spring-boot-guide-2)
+- 🔭 Estou trabalhando em um guia do Spring framework:  [Spring-Guide](https://github.com/Palio2012/spring-boot-guide-2)
 
-- 🌱 Estou aprendendo no momento **Spring framework, React, NoSQL, Javascript**
+- 🌱 Estou aprendendo no momento: **Spring framework, React, NoSQL, Javascript**
+
+- 👨‍🎓 Sou aluno de Análise e desenvolvimento de sistemas pela **Universidade Anhembi Morumbi (EAD)**
 
 - 👨‍💻 Meus projetos estão disponíveis neste link: [https://github.com/Palio2012](https://github.com/Palio2012)
 
-- 📫 Contato: **https://www.linkedin.com/in/danielbaldassi/**
+- 📫 Contato: **daniasrayan.com@gmail.com**
 
-- ⚡ Fato curioso **Pratico música nas horas vagas**
+- ⚡ Fato curioso: **Pratico música nas horas vagas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danielbaldassi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielbaldassi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danielbaldassi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel asrayan baldassi" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/daniel.baldassi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/daniel.baldassi/" height="30" width="40" /></a>
 <a href="https://instagram.com/pain_daniasrayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pain_daniasrayan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/quarentemática" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quarentemática" height="30" width="40" /></a>
