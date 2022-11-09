@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/Palio2012">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=palio2012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=7&color=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palio2012&layout=compact&langs_count=7&color=true&theme=dracula"/>
 </div>
 
 - 🔭 Estou trabalhando em um guia do Spring framework:  [Spring-Guide](https://github.com/Palio2012/spring-boot-guide-2)
