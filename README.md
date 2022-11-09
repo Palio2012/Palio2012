@@ -1,15 +1,22 @@
 <h1 align="center">Olá 👋, eu sou Daniel Asrayan</h1>
 <h3 align="center">Junior Back-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palio2012&label=Profile%20views&color=0e75b6&style=flat" alt="palio2012" /> </p>
+### Sobre mim
+- Meu nome é Daniel Asrayan Baldassi, tenho 20 anos.
+- Comecei a carreira como Engenheiro Mecânico porém não me identifiquei na área, na busca pela identificação eu me deparei com a área de Soluções tecnológicas, e sinto que é o lugar certo para mim.
+- Sou aluno de Análise e Desenvolvimento de Sistemas da Universidade Anhembi Morumbi, cursando pelo método EAD (1º semestre). 
+- Busco um estágio ou CLT como desenvolvedor Back-End Junior, para adquirir experiência na área.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palio2012" alt="palio2012" /></a> </p>
+
+<div align="center">
+  <a href="https://github.com/Dry-A">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dry-A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=7&color=true&theme=dracula"/>
+</div>
 
 - 🔭 Estou trabalhando em um guia do Spring framework:  [Spring-Guide](https://github.com/Palio2012/spring-boot-guide-2)
 
 - 🌱 Estou aprendendo no momento: **Spring framework, React, NoSQL, Javascript**
-
-- 👨‍🎓 Sou aluno de Análise e desenvolvimento de sistemas pela **Universidade Anhembi Morumbi (EAD)**
 
 - 👨‍💻 Meus projetos estão disponíveis neste link: [https://github.com/Palio2012](https://github.com/Palio2012)
 
