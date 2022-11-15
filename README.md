@@ -3,7 +3,7 @@
 
 ### Sobre mim
 - Meu nome é Daniel Asrayan Baldassi, tenho 20 anos.
-- Comecei a carreira como Engenheiro Mecânico porém não me identifiquei na área, na busca pela identificação eu me deparei com a área de Soluções tecnológicas, e sinto que é o lugar certo para mim.
+- Comecei minha carreira profissional como Engenheiro Mecânico porém não me identifiquei na área, na busca pela identificação eu me deparei com a área de Soluções tecnológicas, e sinto que é o lugar certo para mim.
 - Sou aluno de Análise e Desenvolvimento de Sistemas da Universidade Anhembi Morumbi, cursando pelo método EAD (1º semestre). 
 - Busco um estágio ou CLT como desenvolvedor Back-End Junior, para adquirir experiência na área.
 
