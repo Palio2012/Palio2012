@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palio2012&layout=compact&langs_count=7&color=true&theme=dracula"/>
 </div>
 
-- 🔭 Estou trabalhando em um guia do Spring framework:  [Spring-Guide](https://github.com/Palio2012/spring-boot-guide-2)
+- 🔭 Estou trabalhando em um projeto com a ferramenta Spring framework utilizando Spring Data JPA:  [Spring-Guide](https://github.com/Palio2012/Spring-Data-JPA-project)
 
 - 🌱 Estou aprendendo no momento: **Spring framework, React, NoSQL, Javascript**
 
