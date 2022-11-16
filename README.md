@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/Palio2012">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=palio2012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![Palio2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palio2012&theme=dark&show_icons=true)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palio2012&layout=compact&langs_count=7&color=true&theme=dracula"/>
 </div>
 
