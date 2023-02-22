@@ -14,9 +14,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palio2012&layout=compact&langs_count=7&color=true&theme=dracula"/>
 </div>
 
-- 🔭 Estou trabalhando em um projeto utilizando o SpringBoot Framework do Java, possuindo interação com banco de dados não relacional (MongoDB) : [Workshop-SpringBoot-MongoDB](https://github.com/Palio2012/Workshop-SpringBoot-MongoDB)
+- 🔭 Recentemente Finalizei um projeto utilizando o SpringBoot Framework do Java, possuindo interação com banco de dados não relacional (MongoDB) : [Workshop-SpringBoot-MongoDB](https://github.com/Palio2012/Workshop-SpringBoot-MongoDB)
 
-- 🌱 Estou aprendendo no momento: **Spring framework, React, NoSQL, Javascript**
+- 🌱 Estou aprendendo no momento: **Java, Spring framework, NoSQL, Excel Avançado**
 
 - 👨‍💻 Meus projetos estão disponíveis neste link: [https://github.com/Palio2012](https://github.com/Palio2012)
 
