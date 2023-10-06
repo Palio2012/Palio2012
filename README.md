@@ -16,11 +16,11 @@
 
 - 🔭 Recentemente Finalizei um projeto utilizando o SpringBoot Framework do Java, possuindo interação com banco de dados não relacional (MongoDB) : [Workshop-SpringBoot-MongoDB](https://github.com/Palio2012/Workshop-SpringBoot-MongoDB)
 
-- 🌱 Estou aprendendo no momento: **Java, Spring framework, NoSQL, Excel Avançado**
+- 🌱 Estou aprendendo no momento: **Java, SpringBoot 3, TDD, AWS, Machine Learning**
   
 - 📚 Estou lendo o livro "O Codificador Limpo: Um código de conduta para programadores profissionais" de Robert Cecil Martin   
 
-- 👨‍💻 Meus projetos estão disponíveis neste link: [https://github.com/Palio2012](https://github.com/Palio2012)
+- 👨‍💻 Meus projetos estão disponíveis neste link: [https://github.com/Palio2012](https://github.com/Palio2012?tab=repositories)
 
 - 📫 Contato: **daniasrayan.com@gmail.com**
 
