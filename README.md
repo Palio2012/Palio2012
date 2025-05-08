@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Daniel Asrayan</h1>
-<h3 align="center">Back-End Developer</h3>
+<h3 align="center">Back-End Developer and Data Analyst</h3>
 
 ### Sobre mim
 - Meu nome é Daniel Asrayan Baldassi, tenho 22 anos.
