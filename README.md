@@ -16,7 +16,7 @@
 
 - 🔭 Estou trabalhando em alguns projetos de Análise de Dados, disponibilizarei o pipeline em breve! [Veja Aqui!](https://github.com/Palio2012/ProjetosAnaliseDados)
 
-- 🌱 Estou aprendendo no momento: **Análise exploratória de dados utilizando Python, Pandas, Numpy, etc...**
+- 🌱 Estou aprendendo no momento: **Análise exploratória de dados utilizando Python, Pandas, Numpy, Matplotlib, Seaborn, etc...**
   
 - 📚 Estou lendo o livro "O Codificador Limpo: Um código de conduta para programadores profissionais" de Robert Cecil Martin   
 
