@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palio2012&layout=compact&langs_count=7&color=true&theme=dracula"/>
 </div>
 
-- 🔭 Estou trabalhando em alguns projetos de Análise de Dados, disponibilizarei o pipeline em breve! :[Veja Aqui!](https://github.com/Palio2012/ProjetosAnaliseDados)
+- 🔭 Estou trabalhando em alguns projetos de Análise de Dados, disponibilizarei o pipeline em breve! [Veja Aqui!](https://github.com/Palio2012/ProjetosAnaliseDados)
 
 - 🌱 Estou aprendendo no momento: **Análise exploratória de dados utilizando Python, Pandas, Numpy, etc...**
   
